@@ -10,7 +10,7 @@
 
 ### Now i'm Studying...
 
-<img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/git-3776AB?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-3776AB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/git-3776AB?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
 
 

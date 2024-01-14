@@ -19,4 +19,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjajang)](https://solved.ac/jjajang)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlswl7479&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlslw7479&layout=compact)](https://github.com/tlswl7479/github-readme-stats)
